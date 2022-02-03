@@ -1,0 +1,12 @@
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\bin\Debug\net5.0\Allergies.deps.json
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\bin\Debug\net5.0\Allergies.dll
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\bin\Debug\net5.0\ref\Allergies.dll
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\bin\Debug\net5.0\Allergies.pdb
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.csproj.AssemblyReference.cache
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.AssemblyInfoInputs.cache
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.AssemblyInfo.cs
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.dll
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\ref\Allergies.dll
+C:\Users\kstar\Desktop\Allergies.Solution\Allergies\obj\Debug\net5.0\Allergies.pdb
