@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1H4QkyHEealu7/O0qA46CwbDv3X1RDBD/pTZKdTAB0bUU/MR5E3ls6bMSveHAKZzY+4KEzAInRXlKQj32FZhA==",
+  "dgSpecHash": "81Tsgb4dmrxogha6i2vImoN4Kob8KfYYERJdGGLqPsPHb2g4jTGrgNDyJO6Lu7Fp6eynpn32sCE0DYFy9orMJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kstar\\Desktop\\Allergies.Solution\\Allergies\\Allergies.csproj",
+  "projectFilePath": "/Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/Allergies.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

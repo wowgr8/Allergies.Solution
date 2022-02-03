@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Allergies
-build_property.ProjectDir = C:\Users\kstar\Desktop\Allergies.Solution\Allergies\
+build_property.ProjectDir = /Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/

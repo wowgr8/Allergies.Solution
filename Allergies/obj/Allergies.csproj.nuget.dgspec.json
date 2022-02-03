@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kstar\\Desktop\\Allergies.Solution\\Allergies\\Allergies.csproj": {}
+    "/Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/Allergies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kstar\\Desktop\\Allergies.Solution\\Allergies\\Allergies.csproj": {
+    "/Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/Allergies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kstar\\Desktop\\Allergies.Solution\\Allergies\\Allergies.csproj",
+        "projectUniqueName": "/Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/Allergies.csproj",
         "projectName": "Allergies",
-        "projectPath": "C:\\Users\\kstar\\Desktop\\Allergies.Solution\\Allergies\\Allergies.csproj",
-        "packagesPath": "C:\\Users\\kstar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kstar\\Desktop\\Allergies.Solution\\Allergies\\obj\\",
+        "projectPath": "/Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/Allergies.csproj",
+        "packagesPath": "/Users/cesar/.nuget/packages/",
+        "outputPath": "/Users/cesar/epicodus/intro-to-c#/Allergies.Solution/Allergies/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kstar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/cesar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
